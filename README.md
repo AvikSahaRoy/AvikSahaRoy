@@ -10,7 +10,7 @@
 <h3>About Myself:</h3>
 <ul>
   <li>MCA Student</li>
-  <li>OCJA Certified</li>
+  <li>Oracle Certified</li>
 </ul>
 
 <h3 align="left">Connect with me:</h3>
