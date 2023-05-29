@@ -36,3 +36,9 @@
 <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
 </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aviksaharoy&show_icons=true&locale=en&layout=compact" alt="aviksaharoy" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aviksaharoy&show_icons=true&locale=en" alt="aviksaharoy" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aviksaharoy&" alt="aviksaharoy" /></p>
