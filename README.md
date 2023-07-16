@@ -46,3 +46,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aviksaharoy&show_icons=true&locale=en" alt="aviksaharoy" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aviksaharoy&" alt="aviksaharoy" /></p>
+
+<p><img src="https://raw.githubusercontent.com/AvikSahaRoy/AvikSahaRoy/output/snake.svg" alt="Snake animation" /></p>
