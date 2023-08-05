@@ -40,10 +40,10 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
 </a> </p>
 
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=AvikSahaRoy&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="175" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AvikSahaRoy&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=12&theme=dracula&hide_border=false&order=2" height="175" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=AvikSahaRoy&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="175" alt="streak graph"  />
+</div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aviksaharoy&show_icons=true&locale=en&layout=compact" alt="aviksaharoy" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aviksaharoy&show_icons=true&locale=en" alt="aviksaharoy" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aviksaharoy&" alt="aviksaharoy" /></p>
-
+###
