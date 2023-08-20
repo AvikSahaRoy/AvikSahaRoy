@@ -1,31 +1,31 @@
 ![MasterHead](https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif)
 <h1 align="center">Hi 👋, I'm Avik Saha Roy</h1>
-<h3 align="center">A passionate Full Stack Developer</h3>
+<h3 align="center">A passionate Java Full Stack Developer</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=AvikSahaRoy&label=Profile%20views&color=0e75b6&style=flat" alt="AvikSahaRoy" /> </p>
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/rajpratyush/rajpratyush/master/me_1.gif" >
 
-<h3>About Myself:</h3>
+<h3>👨‍💻 About Myself:</h3>
 <ul>
   <li>MCA Student</li>
   <li>Oracle Certified Java Programmer</li>
 </ul>
 
-<h3>Portfolio Link:</h3>
+<h3>🔗 Portfolio Link:</h3>
 <p>https://aviksaharoy.github.io/</p>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">🔗 Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/aviksaharoy/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/aviksaharoy" height="30" width="40" /></a>
-<h3 align="left">Competitive coding:</h3>
+<h3 align="left">💻 Competitive coding:</h3>
 <a href="https://www.codechef.com/users/avik09" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/avik09" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/AvikSahaRoy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/aviksaharoy" height="30" width="40" /></a>
 <a href="https://leetcode.com/AvikSahaRoy/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/aviksaharoy/" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">🛠 Languages and Tools:</h3>
 <p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
@@ -44,10 +44,12 @@
 
 </a> </p>
 
+<h3 align="left">🔥   My Stats :</h3>
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=AvikSahaRoy&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="175" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AvikSahaRoy&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=12&theme=dracula&hide_border=false&order=2" height="175" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=AvikSahaRoy&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="175" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AvikSahaRoy&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=AvikSahaRoy&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
+
+###
 
 ###
