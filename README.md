@@ -7,6 +7,8 @@
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/rajpratyush/rajpratyush/master/me_1.gif" >
 
+<hr>
+
 <h3>👨‍💻 About Myself:</h3>
 <ul>
   <li>MCA Student</li>
@@ -19,11 +21,16 @@
 <h3 align="left">🔗 Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/aviksaharoy/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/aviksaharoy" height="30" width="40" /></a>
+
+<hr>
+
 <h3 align="left">💻 Competitive coding:</h3>
 <a href="https://www.codechef.com/users/avik09" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/avik09" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/AvikSahaRoy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/aviksaharoy" height="30" width="40" /></a>
 <a href="https://leetcode.com/AvikSahaRoy/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/aviksaharoy/" height="30" width="40" /></a>
 </p>
+
+<hr>
 
 <h3 align="left">🛠 Languages and Tools:</h3>
 <div align="left">
@@ -66,12 +73,13 @@
   <img src="https://cdn.simpleicons.org/npm/CB3837" height="40" alt="npm logo"  />
 </div>
 
+<hr>
+
 <h3 align="left">🔥   My Stats :</h3>
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AvikSahaRoy&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="150" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=AvikSahaRoy&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
-###
+<hr>
 
-###
