@@ -13,6 +13,7 @@
 <ul>
   <li>MCA Student</li>
   <li>Oracle Certified Java Programmer</li>
+  <li>💬 Ask me about JavaScript, React, Spring Boot, Java</li>
 </ul>
 
 <h3>🔗 Portfolio Link:</h3>
