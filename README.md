@@ -27,9 +27,13 @@
   <a href="https://www.instagram.com/aviksaharoy___/" target="blank">
     <img src="https://skillicons.dev/icons?i=instagram" height="40" alt="instagram logo"  />
   </a>
+  <img width="6" />
+  <a href="mailto:royavik63@gmail.com">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" height="40" alt="gmail logo"  />
+  </a>
+  
 </div>
 
-###
 
 <hr>
 
