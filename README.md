@@ -13,7 +13,7 @@
 - Oracle Certified Java Programmer
 - 👀 Interested in `JavaScript`, `React`, `Spring Boot`, `Java`, `Python`
 - 🌱 Currently learning `Full Stack Development`
-- <a href="https://aviksaharoy.github.io/">🔗 Visit My Portfolio</a>
+- 🔗 <a href="https://aviksaharoy.github.io/">Visit My Portfolio</a>
 
 
 
