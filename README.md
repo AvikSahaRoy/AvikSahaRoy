@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=AvikSahaRoy&label=Profile%20views&color=0e75b6&style=flat" alt="AvikSahaRoy" /> </p>
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/rajpratyush/rajpratyush/master/me_1.gif" >
+<img align="right" alt="Coding" width="300" src="https://raw.githubusercontent.com/rajpratyush/rajpratyush/master/me_1.gif" >
 
 <h3>👨‍💻 About Myself:</h3>
 
