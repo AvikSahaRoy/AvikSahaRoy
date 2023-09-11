@@ -7,17 +7,15 @@
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/rajpratyush/rajpratyush/master/me_1.gif" >
 
-<hr>
-
 <h3>👨‍💻 About Myself:</h3>
-<ul>
-  <li>MCA Student</li>
-  <li>Oracle Certified Java Programmer</li>
-  <li>💬 Ask me about JavaScript, React, Spring Boot, Java</li>
-</ul>
 
-<h3>🔗 Portfolio Link:</h3>
-<p>https://aviksaharoy.github.io/</p>
+- MCA Student
+- Oracle Certified Java Programmer
+- 👀 Interested in `JavaScript`, `React`, `Spring Boot`, `Java`, `Python`
+- 🌱 Currently learning `Full Stack Development`
+- <a href="https://aviksaharoy.github.io/">🔗 Visit My Portfolio</a>
+
+
 
 <h3 align="left">🔗 Connect with me:</h3>
 <div align="left">
