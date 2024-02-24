@@ -7,9 +7,9 @@
 
 <img align="right" alt="Coding" width="350" src="https://raw.githubusercontent.com/rajpratyush/rajpratyush/master/me_1.gif" >
 
-<h3>👨‍💻 About Myself:</h3>
+<h3>About Myself:</h3>
 
-- MCA Student
+- 👨‍💻 MCA Student
 - Oracle Certified Java Programmer
 - 👀 Interested in `JavaScript`, `React`, `Spring Boot`, `Java`, `Python`
 - 🌱 Currently learning `Full Stack Development`
