@@ -1,6 +1,6 @@
 ![MasterHead](https://raw.githubusercontent.com/PolarBearGG/PolarBearGG/master/web-developer.gif)
 <h1 align="center">Hi 👋, I'm Avik Saha Roy</h1>
-<h3 align="center">A passionate Java Full Stack Developer</h3>
+<h3 align="center">A passionate Full Stack Developer</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=AvikSahaRoy&label=Profile%20views&color=0e75b6&style=flat" alt="AvikSahaRoy" /> </p>
@@ -86,6 +86,15 @@
   <img src="https://skillicons.dev/icons?i=eclipse" height="40" alt="eclipseide logo"  />
   <img width="6" />
   <img src="https://cdn.simpleicons.org/npm/CB3837" height="40" alt="npm logo"  />
+  <img width="6" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="6" />
+  <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo"  />
+  <img width="6" />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo"  />
+</div>
+
+###
 </div>
 
 <hr>
