@@ -165,5 +165,4 @@
   <img src="https://streak-stats.demolab.com?user=AvikSahaRoy&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="170" alt="streak graph"  />
 </div>
 
-<hr>
 
